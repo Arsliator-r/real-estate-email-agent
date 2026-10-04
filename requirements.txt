@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langgraph
+streamlit
+google-auth
+google-auth-oauthlib
+google-api-python-client
+gspread
+twilio
+python-dotenv
